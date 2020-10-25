@@ -9,7 +9,7 @@
   - 王庆丰  
 
 ## ppt的使用
-由于该PPT`MobileNetsReadOnly`使用了较高版本的Microsoft Powerpoint制作，因此在使用WPS演示或者低版本Microsoft Powerpoint打开时可能会有兼容性问题，导致动画不能正常演示。大家在打开ppt的时候请使用**只读模式**。
+由于该PPT`MobileNetsReadOnly.pptx`使用了较高版本的Microsoft Powerpoint制作，因此在使用WPS演示或者低版本Microsoft Powerpoint打开时可能会有兼容性问题，导致动画不能正常演示。大家在打开ppt的时候请使用**只读模式**。
 
 ## 实验代码
 所有实验代码存放在MobileNet-V2文件夹中
